@@ -1,6 +1,2 @@
 # odin-recipes
-My first website using html only
-
-Create a website for recipes on my favourite dishes.
-Implement the use of links to relative webpages.
-Use images.
+Welcome to Odin Recipes, My first website using only HTML! This site is all about my favorite dishes. I used ChatGPT to create these mouthwatering recipes, but I built the HTML code myself. Enjoy exploring the recipes with images and links to more delicious dishes!
