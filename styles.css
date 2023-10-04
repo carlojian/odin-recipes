@@ -7,19 +7,23 @@ body {
 }
 
 .title {
-   text-align: center;
+   text-align: center
+   ;
    
-}
-
-a {
-    font-size: large;
 }
 
 .container {
     margin-top: 100px;
 }
 
-ul {
+a {
+    text-decoration: none;
+}
+
+.foodname {
+    font-size: 30px;
+    font-weight: bold;
+    list-style-type: none;
 
 }
 
@@ -29,6 +33,13 @@ ul {
     width: 400px;
     height: 400px;
     margin: 20px;
-    padding: 10px;
+    padding: 15px;
     vertical-align: top;
+    border: solid;
+    border-color: #374151;
+}
+
+.foodbox img {
+    display: block;
+    margin: 0 auto;
 }
