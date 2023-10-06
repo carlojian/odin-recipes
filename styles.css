@@ -7,9 +7,7 @@ body {
 }
 
 .title {
-   text-align: center
-   ;
-   
+   text-align: center;
 }
 
 .container {
@@ -27,16 +25,22 @@ a {
 
 }
 
+.foodlist {
+    display: flex;
+    flex-wrap: wrap;
+}
+
 .foodbox {
-    display: inline-block;
+    flex: 1 1 auto;
     background-color: #1f2937;
     width: 400px;
-    height: 400px;
+    height: 350px;
     margin: 20px;
     padding: 15px;
     vertical-align: top;
     border: solid;
     border-color: #374151;
+    
 }
 
 .foodbox img {
